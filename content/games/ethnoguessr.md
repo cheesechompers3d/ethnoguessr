@@ -2,9 +2,9 @@
 slug: ethnoguessr
 title: EthnoGuessr
 description: Experience EthnoGuessr, an educational geography-based guessing game where you identify ethnic groups from composite facial averages. Test your knowledge of human diversity and learn about different cultures through this unique anthropological adventure!
-icon: /images/hot_game/ethnoguessr.png
+icon: https://image.scrandle.pro/hot_game/ethnoguessr.png
 url: https://www.ethnoguessr.com
-previewImage: /images/hot_game/ethnoguessr.png
+previewImage: https://image.scrandle.pro/hot_game/ethnoguessr.png
 type: educational
 videoUrls:
   - https://www.youtube.com/embed/UUO6hQumxYs
@@ -22,7 +22,7 @@ whyPlay:
 
 features:
   title: "Key Features of EthnoGuessr"
-  image: "/images/hot_game/ethnoguessr-2.png"
+  image: "https://image.scrandle.pro/hot_game/ethnoguessr-2.png"
   items:
     - "Anthropological Data: EthnoGuessr utilizes comprehensive data from humanphenotypes.net, featuring male and female facial averages from various ethnic groups worldwide"
     - "Interactive World Map: Make precise guesses on EthnoGuessr's detailed world map, with scoring based on proximity to the correct geographic region"
@@ -33,7 +33,7 @@ features:
 
 characteristics:
   title: "Game Characteristics"
-  image: "/images/hot_game/ethnoguessr.png"
+  image: "https://image.scrandle.pro/hot_game/ethnoguessr.png"
   items:
     - "Educational Focus: EthnoGuessr prioritizes learning and cultural understanding over competition, making it suitable for educational environments"
     - "Scientifically Grounded: Based on anthropological research and data, EthnoGuessr provides accurate information about human diversity"
