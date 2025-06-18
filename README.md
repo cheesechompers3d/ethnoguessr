@@ -1,0 +1,2 @@
+# ethnoguessr
+ethnoguessr
